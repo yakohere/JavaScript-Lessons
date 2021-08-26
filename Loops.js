@@ -59,4 +59,4 @@
 // do {
 //     console.log(mevalar[i].nomi);
 //     i++
-// } while (i > mevalar.length)
+// } while (i > mevalar.length) 
